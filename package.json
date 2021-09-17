@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "@types/googlemaps": "^3.39.3",
-    "axios": "^0.19.2"
+    "axios": "^0.19.2",
+    "firebase-tools": "^9.18.0"
   }
 }
