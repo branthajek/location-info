@@ -1,5 +1,5 @@
 {
-  "name": "map-api",
+  "name": "location-info",
   "version": "1.0.0",
   "description": "Map API Tool",
   "main": "app.js",
